@@ -1,0 +1,2 @@
+
+obj-M += test.o
